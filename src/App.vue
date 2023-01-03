@@ -16,7 +16,7 @@ export default {
   name: 'App',
   data(){
     return {
-
+        num: 1
     }
   }
 }
